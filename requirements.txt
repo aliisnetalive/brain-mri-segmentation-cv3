@@ -1,4 +1,5 @@
 tensorflow>=2.12.0
+tf_keras
 keras>=3.0.0
 numpy
 pandas
