@@ -95,7 +95,7 @@ A medical image segmentation project that uses a custom **U-Net** convolutional 
 brain-mri-segmentation-cv3/
 ├── README.md                                        # Project documentation
 ├── requirements.txt                                 # Python dependencies
-├── notebooks/
+├── notebook/
 │   └── brain-tumor-segmentation-u-net-80-dice-iou.ipynb  # Complete pipeline
 ```
 
@@ -174,7 +174,7 @@ Or download manually from [Kaggle](https://www.kaggle.com/datasets/mateuszbuda/l
 
 ### Run the Notebook
 
-Open `notebooks/brain-tumor-segmentation-u-net-80-dice-iou.ipynb` in **Kaggle**, **Google Colab**, or **Jupyter** and update the `data_dir` path:
+Open `notebook/brain-tumor-segmentation-u-net-80-dice-iou.ipynb` in **Kaggle**, **Google Colab**, or **Jupyter** and update the `data_dir` path:
 
 ```python
 # For Kaggle:
